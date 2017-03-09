@@ -8,12 +8,12 @@ module.exports = {
   /**
    * Default authentication endpoint
    */
-  authEndpoint: 'https://databox.me/',
+  authEndpoint: 'https://yodata.me',
 
   /**
    * Default signup endpoints (list of identity providers)
    */
-  signupEndpoint: 'https://solid.github.io/solid-idps/',
+  signupEndpoint: 'https://yodata.me/signup',
 
   /**
    * Default height of the Signup popup window, in pixels
