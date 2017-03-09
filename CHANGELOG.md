@@ -1,3 +1,18 @@
+##### Version 0.23.7
+- Update solid-web-client to 0.2.0
+
+##### Version 0.23.1
+- Use newest rdflib v0.13.0
+
+##### Version 0.23.0
+
+- `getProfile()` now handles 30x redirects
+- Fix response.url and Content-Type handling in `solid-web-client`
+
+##### Version 0.22.5
+
+- Misc. fixes and refactoring
+
 ##### Version 0.21.0
 - Massive refactoring, extracting authentication, permissions and web client
   into standalone repositories
